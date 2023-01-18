@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshatJain3648
-- 👀 I’m interested in ...
+- 👀 I’m interested in React
 - 🌱 I’m currently learning Front-end development
 - 📫 How to reach me :-
 - Email: akshatjain3648@gmail.com
